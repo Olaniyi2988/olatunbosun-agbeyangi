@@ -244,6 +244,10 @@ section {
   background-color: #ccc; /* Ensure hover doesn't change background */
 }
 
+.btn-color-2{
+  color: rgb(53, 53, 53);
+}
+
 .btn-color-1,
 .btn-color-2 {
   border: rgb(53, 53, 53) 0.1rem solid;
